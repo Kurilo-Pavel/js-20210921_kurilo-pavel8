@@ -7,9 +7,4 @@
 export default function sum(m, n) {
 return m+n
 }
-function sortStrings(array, value){
-  array = [];
-  if(value === 'asc'){
 
-  }
-}
